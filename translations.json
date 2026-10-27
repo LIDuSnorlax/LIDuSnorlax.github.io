@@ -1,0 +1,607 @@
+{
+  "About": {
+    "en": "About",
+    "ja": "紹介",
+    "zh": "关于"
+  },
+  "Projects": {
+    "en": "Projects",
+    "ja": "プロジェクト",
+    "zh": "项目"
+  },
+  "Experience": {
+    "en": "Experience",
+    "ja": "職歴",
+    "zh": "工作经历"
+  },
+  "Publications": {
+    "en": "Publications",
+    "ja": "論文",
+    "zh": "论文"
+  },
+  "Contact": {
+    "en": "Contact",
+    "ja": "連絡先",
+    "zh": "联系方式"
+  },
+  "COMPUTER GRAPHICS · COMPUTER VISION · ENGINEERING": {
+    "en": "COMPUTER GRAPHICS · COMPUTER VISION · ENGINEERING",
+    "ja": "コンピュータグラフィックス · コンピュータビジョン · エンジニアリング",
+    "zh": "计算机图形学 · 计算机视觉 · 工程开发"
+  },
+  "Building intelligent": {
+    "en": "Building intelligent",
+    "ja": "知的なビジュアル体験を",
+    "zh": "构建智能"
+  },
+  "visual experiences.": {
+    "en": "visual experiences.",
+    "ja": "創り出す。",
+    "zh": "视觉体验。"
+  },
+  "I'm": {
+    "en": "I'm",
+    "ja": "私は",
+    "zh": "我是"
+  },
+  "an engineer and researcher working across real-time rendering, computer vision, deep learning, and interactive software.": {
+    "en": "an engineer and researcher working across real-time rendering, computer vision, deep learning, and interactive software.",
+    "ja": "リアルタイムレンダリング、コンピュータビジョン、深層学習、インタラクティブソフトウェアに取り組むエンジニア兼研究者です。",
+    "zh": "一名专注于实时渲染、计算机视觉、深度学习和交互软件的工程师与研究人员。"
+  },
+  "Explore my work": {
+    "en": "Explore my work",
+    "ja": "プロジェクトを見る",
+    "zh": "查看项目"
+  },
+  "Get in touch": {
+    "en": "Get in touch",
+    "ja": "お問い合わせ",
+    "zh": "联系我"
+  },
+  "01 / ABOUT": {
+    "en": "01 / ABOUT",
+    "ja": "01 / 紹介",
+    "zh": "01 / 关于"
+  },
+  "Research mindset.": {
+    "en": "Research mindset.",
+    "ja": "研究者の視点。",
+    "zh": "科研思维。"
+  },
+  "Builder instinct.": {
+    "en": "Builder instinct.",
+    "ja": "開発者の実行力。",
+    "zh": "工程实践。"
+  },
+  "I combine hands-on engineering with research experience, from mobile graphics pipelines and computer vision algorithms to Android applications and Unity simulations. My work spans industry collaboration, academic research, and independent development.": {
+    "en": "I combine hands-on engineering with research experience, from mobile graphics pipelines and computer vision algorithms to Android applications and Unity simulations. My work spans industry collaboration, academic research, and independent development.",
+    "ja": "モバイル向けグラフィックス、コンピュータビジョン、Androidアプリ、Unityシミュレーションなど、研究経験と実践的な開発力を組み合わせています。企業との共同研究から個人開発まで幅広く取り組んできました。",
+    "zh": "我将工程实践与科研经验相结合，涉及移动端图形渲染管线、计算机视觉算法、Android 应用和 Unity 仿真，涵盖产学合作、学术研究和独立开发。"
+  },
+  "02 / SELECTED WORK": {
+    "en": "02 / SELECTED WORK",
+    "ja": "02 / 主なプロジェクト",
+    "zh": "02 / 精选项目"
+  },
+  "Projects & experiments": {
+    "en": "Projects & experiments",
+    "ja": "プロジェクトと開発",
+    "zh": "项目与实践"
+  },
+  "Selected projects from research, software development, and interactive media.": {
+    "en": "Selected projects from research, software development, and interactive media.",
+    "ja": "研究、ソフトウェア開発、インタラクティブ分野の代表的なプロジェクト。",
+    "zh": "展示科研、软件开发和交互媒体领域的代表性项目。"
+  },
+  "Graphics & Simulation": {
+    "en": "Graphics & Simulation",
+    "ja": "グラフィックス・シミュレーション",
+    "zh": "图形与仿真"
+  },
+  "Computer Vision & AI": {
+    "en": "Computer Vision & AI",
+    "ja": "コンピュータビジョン・AI",
+    "zh": "计算机视觉与 AI"
+  },
+  "Software & Apps": {
+    "en": "Software & Apps",
+    "ja": "ソフトウェア・アプリ",
+    "zh": "软件与应用"
+  },
+  "Engineering Applications": {
+    "en": "Engineering Applications",
+    "ja": "建設工学・応用研究",
+    "zh": "工程应用"
+  },
+  "Games": {
+    "en": "Games",
+    "ja": "ゲーム",
+    "zh": "游戏"
+  },
+  "Mobile Rendering & Global Illumination": {
+    "en": "Mobile Rendering & Global Illumination",
+    "ja": "モバイルレンダリングとグローバルイルミネーション",
+    "zh": "移动端渲染与全局光照"
+  },
+  "Real-Time Face Tracking & 3DMM": {
+    "en": "Real-Time Face Tracking & 3DMM",
+    "ja": "リアルタイム顔追跡と3DMM",
+    "zh": "实时人脸跟踪与 3DMM"
+  },
+  "Improved face-tracking and 3D Morphable Model algorithms, with a reported 20% reduction in computational latency.": {
+    "en": "Improved face-tracking and 3D Morphable Model algorithms, with a reported 20% reduction in computational latency.",
+    "ja": "顔追跡と3D Morphable Modelのアルゴリズムを改良し、計算遅延を20%削減しました。",
+    "zh": "改进人脸跟踪与三维形变模型算法，计算延迟降低约 20%。"
+  },
+  "Wildlife Electronic Atlas of Duo'er": {
+    "en": "Wildlife Electronic Atlas of Duo'er",
+    "ja": "多児自然保護区の野生生物電子図鑑",
+    "zh": "多儿自然保护区野生动物电子图鉴"
+  },
+  "Developed an electronic wildlife atlas with geographic data integration, supporting tracking and classification.": {
+    "en": "Developed an electronic wildlife atlas with geographic data integration, supporting tracking and classification.",
+    "ja": "地理データを統合した野生生物の電子図鑑を開発し、追跡・分類を支援しました。",
+    "zh": "开发集成地理数据的野生动物电子图鉴，支持物种追踪与分类。"
+  },
+  "Panda Survey Mobile App": {
+    "en": "Panda Survey Mobile App",
+    "ja": "パンダ調査用モバイルアプリ",
+    "zh": "大熊猫调查移动应用"
+  },
+  "Developed an Android application supporting panda surveys, including GPS tracking and data export.": {
+    "en": "Developed an Android application supporting panda surveys, including GPS tracking and data export.",
+    "ja": "GPS追跡とデータ出力機能を備えたパンダ調査用Androidアプリを開発しました。",
+    "zh": "开发支持 GPS 轨迹记录与数据导出的 Android 大熊猫调查应用。"
+  },
+  "LiDAR Virtual Simulation Tutorials": {
+    "en": "LiDAR Virtual Simulation Tutorials",
+    "ja": "LiDARバーチャルシミュレーション教材",
+    "zh": "激光雷达虚拟仿真教程"
+  },
+  "Created an interactive Unity simulation to visualize laser LiDAR principles and signal processing.": {
+    "en": "Created an interactive Unity simulation to visualize laser LiDAR principles and signal processing.",
+    "ja": "LiDARの原理と信号処理を可視化するUnityベースのインタラクティブなシミュレーションを制作しました。",
+    "zh": "使用 Unity 开发交互式仿真系统，可视化激光雷达原理与信号处理过程。"
+  },
+  "Wildlife Identification from Infrared Cameras": {
+    "en": "Wildlife Identification from Infrared Cameras",
+    "ja": "赤外線カメラ画像による野生動物識別",
+    "zh": "红外相机野生动物识别"
+  },
+  "Trained a deep-learning-based recognition model for wildlife imagery, including nocturnal species.": {
+    "en": "Trained a deep-learning-based recognition model for wildlife imagery, including nocturnal species.",
+    "ja": "夜行性動物を含む野生動物画像を識別する深層学習モデルを学習しました。",
+    "zh": "训练深度学习识别模型，识别包括夜行性动物在内的红外野生动物图像。"
+  },
+  "BIM-Based Construction Site Layout Planning": {
+    "en": "BIM-Based Construction Site Layout Planning",
+    "ja": "BIMを用いた建設現場レイアウト計画",
+    "zh": "基于 BIM 的建筑工地布局规划"
+  },
+  "Contributed to a data-driven, lifting-centered approach to construction site layout planning, presented in Automation in Construction.": {
+    "en": "Contributed to a data-driven, lifting-centered approach to construction site layout planning, presented in Automation in Construction.",
+    "ja": "揚重作業を中心としたデータ駆動型の建設現場配置計画の研究に参加し、Automation in Constructionに発表しました。",
+    "zh": "参与以吊装作业为中心的数据驱动建筑工地布局优化研究，成果发表于 Automation in Construction。"
+  },
+  "Spatial Gesture Interpretation for Machinery Handling": {
+    "en": "Spatial Gesture Interpretation for Machinery Handling",
+    "ja": "建設機械操作のための空間ジェスチャー解釈",
+    "zh": "面向工程机械操作的空间手势识别"
+  },
+  "Studied 3D spatial gesture trajectories for on-site construction machinery handling and human–machine communication.": {
+    "en": "Studied 3D spatial gesture trajectories for on-site construction machinery handling and human–machine communication.",
+    "ja": "建設現場での機械操作とヒューマンマシンコミュニケーションに向けて、3次元ジェスチャー軌跡を研究しました。",
+    "zh": "研究用于工地机械操作及人机交互的三维空间手势轨迹。"
+  },
+  "Read publication": {
+    "en": "Read publication",
+    "ja": "論文を見る",
+    "zh": "查看论文"
+  },
+  "Tape-Loop-Shadow": {
+    "en": "Tape-Loop-Shadow",
+    "ja": "Tape-Loop-Shadow",
+    "zh": "Tape-Loop-Shadow"
+  },
+  "A game created for GMTK Game Jam 2025 in a three-day development sprint.": {
+    "en": "A game created for GMTK Game Jam 2025 in a three-day development sprint.",
+    "ja": "GMTK Game Jam 2025に向けて3日間で制作したゲームです。",
+    "zh": "为 GMTK Game Jam 2025 在三天内开发的游戏作品。"
+  },
+  "Play on itch.io": {
+    "en": "Play on itch.io",
+    "ja": "itch.ioでプレイ",
+    "zh": "在 itch.io 游玩"
+  },
+  "Project visuals are abstract placeholders. Replace with screenshots, diagrams, or demos you have permission to publish.": {
+    "en": "Project visuals are abstract placeholders. Replace with screenshots, diagrams, or demos you have permission to publish.",
+    "ja": "画像は仮のイメージです。公開可能なスクリーンショットやデモに差し替えてください。",
+    "zh": "项目视觉图为占位插图，后续请替换为获授权公开的截图、示意图或演示。"
+  },
+  "03 / EXPERIENCE": {
+    "en": "03 / EXPERIENCE",
+    "ja": "03 / 職歴",
+    "zh": "03 / 工作经历"
+  },
+  "Where I've worked": {
+    "en": "Where I've worked",
+    "ja": "職務経験",
+    "zh": "工作履历"
+  },
+  "Research Associate · Team Lead": {
+    "en": "Research Associate · Team Lead",
+    "ja": "研究員 · チームリーダー",
+    "zh": "研究助理研究员 · 团队负责人"
+  },
+  "Researcher": {
+    "en": "Researcher",
+    "ja": "研究者",
+    "zh": "研究人员"
+  },
+  "Research Assistant": {
+    "en": "Research Assistant",
+    "ja": "研究助手",
+    "zh": "研究助理"
+  },
+  "Software Engineer Intern": {
+    "en": "Software Engineer Intern",
+    "ja": "ソフトウェアエンジニア（インターン）",
+    "zh": "软件工程实习生"
+  },
+  "Programmer": {
+    "en": "Programmer",
+    "ja": "プログラマー",
+    "zh": "程序员"
+  },
+  "Hong Kong Polytechnic University": {
+    "en": "Hong Kong Polytechnic University",
+    "ja": "香港理工大学",
+    "zh": "香港理工大学"
+  },
+  "Tokyo Institute of Technology": {
+    "en": "Tokyo Institute of Technology",
+    "ja": "東京工業大学",
+    "zh": "东京工业大学"
+  },
+  "Mobile rendering pipeline research, global illumination and industry collaboration.": {
+    "en": "Mobile rendering pipeline research, global illumination and industry collaboration.",
+    "ja": "モバイル描画パイプライン、グローバルイルミネーション、産学連携。",
+    "zh": "移动端渲染管线、全局光照及企业合作研究。"
+  },
+  "Radar-based gesture interfaces, GAN-based engineering models and Unity LiDAR visualization.": {
+    "en": "Radar-based gesture interfaces, GAN-based engineering models and Unity LiDAR visualization.",
+    "ja": "レーダーを用いたジェスチャーインターフェース、GANによる工学モデル、UnityでのLiDAR可視化。",
+    "zh": "雷达手势交互、基于 GAN 的工程建模及 Unity 雷达可视化。"
+  },
+  "Real-time face tracking, 3D morphable models and CUDA/PyTorch optimization.": {
+    "en": "Real-time face tracking, 3D morphable models and CUDA/PyTorch optimization.",
+    "ja": "リアルタイム顔追跡、3DMM、CUDA/PyTorch最適化。",
+    "zh": "实时人脸追踪、三维形变模型和 CUDA/PyTorch 优化。"
+  },
+  "Android app features and multilingual translation modeling.": {
+    "en": "Android app features and multilingual translation modeling.",
+    "ja": "Androidアプリの機能開発と多言語翻訳モデル。",
+    "zh": "Android 应用开发及多语言翻译模型。"
+  },
+  "Object detection and computer vision model pipelines.": {
+    "en": "Object detection and computer vision model pipelines.",
+    "ja": "物体検出とコンピュータビジョンのモデルパイプライン。",
+    "zh": "目标检测与计算机视觉模型流程。"
+  },
+  "Unity and C# development, localization and software debugging.": {
+    "en": "Unity and C# development, localization and software debugging.",
+    "ja": "Unity・C#開発、ローカライズ、デバッグ。",
+    "zh": "Unity/C# 开发、本地化及软件调试。"
+  },
+  "04 / TOOLKIT": {
+    "en": "04 / TOOLKIT",
+    "ja": "04 / スキル",
+    "zh": "04 / 技术栈"
+  },
+  "Tools I work with": {
+    "en": "Tools I work with",
+    "ja": "使用技術",
+    "zh": "技术工具"
+  },
+  "Programming": {
+    "en": "Programming",
+    "ja": "プログラミング",
+    "zh": "编程语言"
+  },
+  "Graphics & Vision": {
+    "en": "Graphics & Vision",
+    "ja": "グラフィックス・画像認識",
+    "zh": "图形与视觉"
+  },
+  "Deep Learning": {
+    "en": "Deep Learning",
+    "ja": "深層学習",
+    "zh": "深度学习"
+  },
+  "Development": {
+    "en": "Development",
+    "ja": "開発ツール",
+    "zh": "开发工具"
+  },
+  "3D & Sensors": {
+    "en": "3D & Sensors",
+    "ja": "3D・センサー",
+    "zh": "三维与传感器"
+  },
+  "Additional Tools": {
+    "en": "Additional Tools",
+    "ja": "その他のツール",
+    "zh": "其他工具"
+  },
+  "05 / PUBLICATIONS": {
+    "en": "05 / PUBLICATIONS",
+    "ja": "05 / 論文",
+    "zh": "05 / 学术论文"
+  },
+  "Selected publications": {
+    "en": "Selected publications",
+    "ja": "主な論文",
+    "zh": "代表论文"
+  },
+  "Data-driven lifting-centered construction site layout planning decision approach with BIM": {
+    "en": "Data-driven lifting-centered construction site layout planning decision approach with BIM",
+    "ja": "BIMを用いた揚重中心のデータ駆動型建設現場レイアウト計画",
+    "zh": "基于 BIM 的数据驱动吊装导向型施工现场布局规划"
+  },
+  "Enhancing on-site construction machinery handling through 3D spatial gesture-based trajectory interpreter modeling": {
+    "en": "Enhancing on-site construction machinery handling through 3D spatial gesture-based trajectory interpreter modeling",
+    "ja": "3D空間ジェスチャー軌跡解釈モデルによる建設機械操作の改善",
+    "zh": "通过三维空间手势轨迹解释模型改进现场施工机械操作"
+  },
+  "Robust lane detection through automatic trajectory analysis with deep learning and big data environment": {
+    "en": "Robust lane detection through automatic trajectory analysis with deep learning and big data environment",
+    "ja": "深層学習とビッグデータ環境を用いた軌跡自動解析による頑健な車線検出",
+    "zh": "通过深度学习与大数据环境中的自动轨迹分析实现鲁棒车道线检测"
+  },
+  "View publication": {
+    "en": "View publication",
+    "ja": "論文を見る",
+    "zh": "查看论文"
+  },
+  "06 / CONTACT": {
+    "en": "06 / CONTACT",
+    "ja": "06 / 連絡先",
+    "zh": "06 / 联系方式"
+  },
+  "Let's connect": {
+    "en": "Let's connect",
+    "ja": "お問い合わせ",
+    "zh": "保持联系"
+  },
+  "Interested in research, engineering, or creative collaboration? You can reach me here.": {
+    "en": "Interested in research, engineering, or creative collaboration? You can reach me here.",
+    "ja": "研究、エンジニアリング、クリエイティブな共同開発については、こちらからご連絡ください。",
+    "zh": "欢迎就科研、工程开发或创意合作与我联系。"
+  },
+  "Email": {
+    "en": "Email",
+    "ja": "メール",
+    "zh": "电子邮箱"
+  },
+  "Back to top": {
+    "en": "Back to top",
+    "ja": "ページ先頭へ",
+    "zh": "返回顶部"
+  },
+  "Designed as a lightweight, static portfolio · GitHub Pages ready": {
+    "en": "Designed as a lightweight, static portfolio · GitHub Pages ready",
+    "ja": "軽量な静的ポートフォリオ · GitHub Pages対応",
+    "zh": "轻量静态作品集 · 支持 GitHub Pages"
+  },
+  "YOUR TRAVEL PHOTO": {
+    "en": "YOUR TRAVEL PHOTO",
+    "ja": "旅行写真をここに",
+    "zh": "在这里放旅行照片"
+  },
+  "RESEARCH": {
+    "en": "RESEARCH",
+    "ja": "研究",
+    "zh": "研究"
+  },
+  "APPLICATION": {
+    "en": "APPLICATION",
+    "ja": "アプリ開発",
+    "zh": "应用开发"
+  },
+  "SIMULATION": {
+    "en": "SIMULATION",
+    "ja": "シミュレーション",
+    "zh": "仿真"
+  },
+  "COMPUTER VISION": {
+    "en": "COMPUTER VISION",
+    "ja": "画像認識",
+    "zh": "计算机视觉"
+  },
+  "GAME DEVELOPMENT": {
+    "en": "GAME DEVELOPMENT",
+    "ja": "ゲーム開発",
+    "zh": "游戏开发"
+  },
+  "RESEARCH · 2025–2026": {
+    "en": "RESEARCH · 2025–2026",
+    "ja": "研究 · 2025–2026",
+    "zh": "科研 · 2025–2026"
+  },
+  "RESEARCH · 2022–2023": {
+    "en": "RESEARCH · 2022–2023",
+    "ja": "研究 · 2022–2023",
+    "zh": "科研 · 2022–2023"
+  },
+  "RESEARCH · 2025": {
+    "en": "RESEARCH · 2025",
+    "ja": "研究 · 2025",
+    "zh": "科研 · 2025"
+  },
+  "RESEARCH · 2024": {
+    "en": "RESEARCH · 2024",
+    "ja": "研究 · 2024",
+    "zh": "科研 · 2024"
+  },
+  "APPLICATION · 2023": {
+    "en": "APPLICATION · 2023",
+    "ja": "アプリ開発 · 2023",
+    "zh": "应用 · 2023"
+  },
+  "APPLICATION · 2025–2026": {
+    "en": "APPLICATION · 2025–2026",
+    "ja": "アプリ開発 · 2025–2026",
+    "zh": "应用 · 2025–2026"
+  },
+  "SIMULATION · 2024": {
+    "en": "SIMULATION · 2024",
+    "ja": "シミュレーション · 2024",
+    "zh": "仿真 · 2024"
+  },
+  "COMPUTER VISION · 2024": {
+    "en": "COMPUTER VISION · 2024",
+    "ja": "画像認識 · 2024",
+    "zh": "计算机视觉 · 2024"
+  },
+  "GAME DEVELOPMENT · 2025": {
+    "en": "GAME DEVELOPMENT · 2025",
+    "ja": "ゲーム開発 · 2025",
+    "zh": "游戏开发 · 2025"
+  },
+  "hero-intro": {
+    "en": "I'm <strong>LI Du</strong>, an engineer and researcher from Hong Kong working across real-time rendering, computer vision, deep learning, and interactive software.",
+    "ja": "香港出身のエンジニア・研究者、<strong>LI Du</strong>です。リアルタイムレンダリング、コンピュータビジョン、深層学習、インタラクティブソフトウェアに取り組んでいます。",
+    "zh": "我是来自香港的工程师与研究人员 <strong>LI Du</strong>，专注于实时渲染、计算机视觉、深度学习及交互软件开发。"
+  },
+  "Research Assistant / Associate · PolyU": {
+    "en": "Research Assistant / Associate · PolyU",
+    "ja": "研究助手・研究員 · 香港理工大学",
+    "zh": "研究助理／副研究员 · 香港理工大学"
+  },
+  "Led research on smartphone rendering pipelines and mobile global illumination techniques.": {
+    "en": "Led research on smartphone rendering pipelines and mobile global illumination techniques.",
+    "ja": "スマートフォン向けレンダリングパイプラインの研究開発を主導し、モバイル端末に適したグローバルイルミネーション手法を研究しました。",
+    "zh": "负责 HarmonyOS 手机系统的渲染管线合作研究，并探索适用于移动端的全局光照算法。"
+  },
+  "Developed Unity-based LiDAR and point-cloud visualization tutorials, now used in construction management teaching at The Hong Kong Polytechnic University.": {
+    "en": "Developed Unity-based LiDAR and point-cloud visualization tutorials, now used in construction management teaching at The Hong Kong Polytechnic University.",
+    "ja": "Unityを用いたLiDAR・点群可視化の教材を開発。香港理工大学の建設マネジメント関連授業で使用されています。",
+    "zh": "开发基于 Unity 的激光雷达与点云可视化教程，现已应用于香港理工大学建筑工程管理专业的教学。"
+  },
+  "GAME PROTOTYPE · IN DEVELOPMENT": {
+    "en": "GAME PROTOTYPE · IN DEVELOPMENT",
+    "ja": "ゲームプロトタイプ · 開発中",
+    "zh": "游戏原型 · 开发中"
+  },
+  "Game Prototype": {
+    "en": "Game Prototype",
+    "ja": "ゲームプロトタイプ",
+    "zh": "游戏原型"
+  },
+  "In Development": {
+    "en": "In Development",
+    "ja": "開発中",
+    "zh": "开发中"
+  },
+  "A horror game in which echoes reveal the physical outlines of objects. Explore a complex, perilous ruin to uncover the truth behind an incident.": {
+    "en": "A horror game in which echoes reveal the physical outlines of objects. Explore a complex, perilous ruin to uncover the truth behind an incident.",
+    "ja": "音の反響によって物体の輪郭を捉えるホラーゲーム。危険に満ちた複雑な遺跡を調査し、事件の真相に迫ります。",
+    "zh": "一款恐怖游戏，通过回声获取物体的物理轮廓，在复杂且充满危机的遗迹中调查事件的真相。"
+  },
+  "Access Restricted. You do not have permission to view this page. We are sorry, but the current user is not authorized to access this content. However... if you can read this message, that means...": {
+    "en": "Access Restricted. You do not have permission to view this page. We are sorry, but the current user is not authorized to access this content. However... if you can read this message, that means...",
+    "ja": "〈アクセス制限〉閲覧権限がありません。申し訳ありませんが、現在のユーザーにはこのページを表示する権限がありません。しかし……このメッセージが見えているということは……",
+    "zh": "〈权限受限〉你没有访问资格。很抱歉，当前用户不具备查看此页面的权限。不过……如果你能看到这条消息，说明……"
+  },
+  "Some project details are restricted. Please contact me if you would like to learn more.": {
+    "en": "Some project details are restricted. Please contact me if you would like to learn more.",
+    "ja": "一部のプロジェクト情報は公開できません。詳しくはお問い合わせください。",
+    "zh": "部分项目由于权限限制无法公开展示，如需了解详情请联系我。"
+  },
+  "Research Assistant / Associate": {
+    "en": "Research Assistant / Associate",
+    "ja": "研究助手・研究員",
+    "zh": "研究助理／副研究员"
+  },
+  "The Hong Kong Polytechnic University": {
+    "en": "The Hong Kong Polytechnic University",
+    "ja": "香港理工大学",
+    "zh": "香港理工大学"
+  },
+  "Research and development spanning computer vision, construction engineering, radar systems, Unity simulation, and mobile rendering.": {
+    "en": "Research and development spanning computer vision, construction engineering, radar systems, Unity simulation, and mobile rendering.",
+    "ja": "コンピュータビジョン、建設工学、レーダーシステム、Unityシミュレーション、モバイルレンダリングに関する研究開発。",
+    "zh": "研究与开发涵盖计算机视觉、建筑工程、雷达系统、Unity 仿真，以及与华为合作的移动端渲染项目。"
+  },
+  "Professional Skills": {
+    "en": "Professional Skills",
+    "ja": "業務スキル",
+    "zh": "工作技能"
+  },
+  "AI Agents": {
+    "en": "AI Agents",
+    "ja": "AIエージェント",
+    "zh": "AI 智能体"
+  },
+  "Gaming": {
+    "en": "Gaming",
+    "ja": "ゲーム開発",
+    "zh": "游戏开发"
+  },
+  "Languages": {
+    "en": "Languages",
+    "ja": "言語",
+    "zh": "语言"
+  },
+  "04 / Skills": {
+    "en": "04 / Skills",
+    "ja": "04 / スキル",
+    "zh": "04 / 工作技能"
+  },
+  "M.Eng. Institute of Science Tokyo": {
+    "en": "M.Eng. Institute of Science Tokyo",
+    "ja": "工学修士　東京科学大学",
+    "zh": "工学硕士　东京科学大学"
+  },
+  "B.Eng. Hong Kong Polytechnic University": {
+    "en": "B.Eng. Hong Kong Polytechnic University",
+    "ja": "工学学士　香港理工大学",
+    "zh": "工学学士　香港理工大学"
+  },
+  "Road Vehicle Detection · YOLO": {
+    "en": "Road Vehicle Detection · YOLO",
+    "ja": "道路車両検出 · YOLO",
+    "zh": "道路车辆检测 · YOLO"
+  },
+  "Developed a YOLO-based road-vehicle detection system in 2021, contributing primarily to coding and data annotation as a student research assistant collaborating with a PhD researcher. The research was published at IWAIT 2022 (SPIE).": {
+    "en": "Developed a YOLO-based road-vehicle detection system in 2021, contributing primarily to coding and data annotation as a student research assistant collaborating with a PhD researcher. The research was published at IWAIT 2022 (SPIE).",
+    "ja": "2021年、博士課程の研究者と共同でYOLOによる道路車両検出に取り組み、学生リサーチアシスタントとして主にプログラミングとデータアノテーションを担当。成果はIWAIT 2022（SPIE）で発表されました。",
+    "zh": "2021年作为学生研究助理，与博士生合作开展基于YOLO的道路车辆检测研究，主要负责程序开发与数据标注。研究成果发表于IWAIT 2022（SPIE）。"
+  },
+  "Smart Bicycle": {
+    "en": "Smart Bicycle",
+    "ja": "スマート自転車",
+    "zh": "智能自行车"
+  },
+  "Undergraduate final-year group project to develop a smart bicycle system. Built a mobile app for rider-posture recording and analysis, integrated a map API for route tracking, and contributed to face and road recognition for autonomous riding research.": {
+    "en": "Undergraduate final-year group project to develop a smart bicycle system. Built a mobile app for rider-posture recording and analysis, integrated a map API for route tracking, and contributed to face and road recognition for autonomous riding research.",
+    "ja": "学部卒業研究の共同プロジェクトとしてスマート自転車システムを開発。乗車姿勢の記録・解析用モバイルアプリ、地図APIによる走行軌跡記録を担当し、自動走行に向けた顔認識と道路認識にも取り組みました。",
+    "zh": "本科毕业设计团队项目，开发智能自行车及配套系统。负责记录与分析骑行姿态的移动应用、利用地图API记录骑行轨迹，并参与面向自动驾驶研究的人脸识别与道路识别。"
+  },
+  "Conducted research and software development across computer vision, deep learning for object detection, construction-site planning, millimeter-wave radar gesture systems, radar and LiDAR/point-cloud simulation, and Unity-based visualization. Most recently served as team leader on an industry collaboration, directing research into smartphone rendering pipelines and mobile global illumination.": {
+    "en": "Conducted research and software development across computer vision, deep learning for object detection, construction-site planning, millimeter-wave radar gesture systems, radar and LiDAR/point-cloud simulation, and Unity-based visualization. Most recently served as team leader on an industry collaboration, directing research into smartphone rendering pipelines and mobile global illumination.",
+    "ja": "コンピュータビジョン、物体検出向け深層学習、建設現場計画、ミリ波レーダーによるジェスチャー認識、レーダー・LiDAR／点群シミュレーション、Unityによる可視化の研究開発に従事。直近では産学連携プロジェクトのチームリーダーとして、スマートフォン向けレンダリングパイプラインとモバイル・グローバルイルミネーションの研究を主導しました。",
+    "zh": "研究与开发涵盖计算机视觉、目标检测深度学习、建筑工地规划、毫米波雷达手势识别、雷达与激光雷达点云仿真，以及Unity可视化。后期作为产学合作项目团队负责人，带领团队研究手机渲染管线与移动端全局光照算法。"
+  },
+  "UNDERGRADUATE · 2022": {
+    "en": "UNDERGRADUATE · 2022",
+    "ja": "卒業研究 · 2022",
+    "zh": "本科毕业设计 · 2022"
+  },
+  "RESEARCH · 2021–2022": {
+    "en": "RESEARCH · 2021–2022",
+    "ja": "研究 · 2021–2022",
+    "zh": "研究 · 2021–2022"
+  }
+}
